@@ -1,2 +1,4 @@
-# OpenVPN-auto-installer
-Menginstall OpenVPN server memiliki beberapa metode penginstallan, salah satunya menggunakan script auto installer, simak bagaimana konfigurasinya
+# OpenVPN install
+Serangan privasi pada jaringan komputer memiliki ancaman yang signifikan seiring perkembangan jaman, salah satunya bocornya informasi saat bertukar data pada jaringan komputer, ie. serangan MITM (Man In The Middle) Attack. sebagai upaya dalam menjaga kemanan bertukar data, dipilihlah salah satunya teknologi VPN. <br />
+teknologi VPN atau Virtual Private Network adalah sebuah teknologi tunneling dimana jaringan yang tadinya publik dapat berkomunikasi dengan jaringan lokal seolah-olah mereka satu jaringan secara private, dapat berkirim data dengan keamanan ekstra. Nah pada modul kali ini saya akan memberikan paduan cara menerapkan jaringan virtual dengan jenis teknologi virtual network OpenVPN. <br />
+OpenVPN merupakan jenis VPN yang memanfaatkan authentikasi data jarak jauh, disini sebelum client dengan server berkomunikasi, mereka membutuhkan sertifikat CA (Certificate Authority) sebagai metode bertukar data.
